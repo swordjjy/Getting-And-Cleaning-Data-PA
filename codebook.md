@@ -19,6 +19,6 @@ Describe the variable, the data and all the work I did in run_analysis.R as belo
 
 * Read activity_labels.txt into variable activity, apply descriptive activity names to name the activities in the data set , all feature names (attributes), activity names are converted to lower case and remove the brackets and underscore between letters.
 
-* Combine subjData,yData,xData by column into cleanData and save as merged_cleanData.txt.
+* Combine subjData,yData,xData by column into cleanData and save as "merged_cleanData.txt".
 
 * Create a second, independent tidy data set with the average of each variable for each activity and each subject and save as "mean_Data.txt".
