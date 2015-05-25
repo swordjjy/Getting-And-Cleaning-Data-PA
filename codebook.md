@@ -7,7 +7,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Original description:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Describe the variable, the data and all the work I did in run_analysis.R below:
+Describe the variable, the data and all the work I did in run_analysis.R as below:
 
 * Read X_train.txt, y_train.txt and subject_train.txt into variables xTrain,yTrain and subjTrain. 
 
